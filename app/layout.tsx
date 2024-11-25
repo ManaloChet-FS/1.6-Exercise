@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "My static site",
-  description: "This site was created for an assignment for my Deployment of Web Applications class.",
+  description: "This site was created as an assignment for my Deployment of Web Applications class.",
 };
 
 export default function RootLayout({
